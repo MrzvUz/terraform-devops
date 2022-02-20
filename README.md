@@ -149,3 +149,4 @@
 - [Study Guide](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
 - [Exam Review Guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
 - [Sample Questions](https://learn.hashicorp.com/tutorials/terraform/associate-questions?in=terraform/certification)
+
